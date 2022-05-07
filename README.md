@@ -61,4 +61,5 @@ $ npm run test:cov
 So We will be Looking These NestJS  features and Learn as we go on.
 
 1. Go with Overview:- Installation, Introduction, Controllers and Providers, Validators, Dependencies Between Modules, Logging Activites, Guards , GraphQL
-2. Overview On - NestJS  Structure    
+2. Overview On - NestJS  Structure  
+3. Controller - Create User Module, User Controller, User Entity/Model of User, Make a CRUD operation for the Users  
